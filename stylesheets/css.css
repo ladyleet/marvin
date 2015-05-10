@@ -1,0 +1,37 @@
+.featherbackground{
+	background: url(backgroundfeathers.jpg);
+}
+.headerjumbotron{
+	margin-top: 40px;
+}
+.carousel-inner .item img {
+  display: inline-block;
+}
+.marvin-carousel {
+  width: 640px;
+  margin-right: auto;
+  margin-left: auto;
+}
+ 
+.marvin-carousel .carousel-inner .item {
+  height: 640px;
+}
+.marvinlogo {
+	height:80px;
+	width: 80px;
+	border-radius: 40px;
+}
+.jendayred {
+	text-align: center;
+	color: #FA2318;
+}
+.birdpics {
+	max-width: 100%;
+	border-radius: 8px;
+}
+.birdpics:hover {
+	border: 3px solid yellow;
+}
+.btn:hover{
+	border: 2px solid green;
+}
